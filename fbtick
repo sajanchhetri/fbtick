@@ -1,6 +1,10 @@
 #!/bin/bash
 clear
 
+echo "
+█▀ ▄▀█ ░░█ ▄▀█ █▄░█ ▄▄ █▀▀ █░█ █░█ █▀▀ ▀█▀ █▀█ █
+▄█ █▀█ █▄█ █▀█ █░▀█ ░░ █▄▄ █▀█ █▀█ ██▄ ░█░ █▀▄ █
+"
 echo "put your full name with space"
 read -p "put your facebook name :" name
 echo "hello $name"
