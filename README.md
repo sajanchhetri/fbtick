@@ -6,6 +6,7 @@ dont use or edit this file without owner permisson!
 --------------------------------------------------
 
 **installation**
+
 apt update -y && apt update -y
 
 apt install git -y
