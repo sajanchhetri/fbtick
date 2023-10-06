@@ -5,7 +5,7 @@ echo "
 █▀ ▄▀█ ░░█ ▄▀█ █▄░█ ▄▄ █▀▀ █░█ █░█ █▀▀ ▀█▀ █▀█ █
 ▄█ █▀█ █▄█ █▀█ █░▀█ ░░ █▄▄ █▀█ █▀█ ██▄ ░█░ █▀▄ █
 "
-echo "put your full name with space"
+echo "put your full name with space!! example :- Sajan Chhetri"
 read -p "put your facebook name :" name
 echo "hello $name"
 file="black.txt"
